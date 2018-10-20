@@ -1,0 +1,1717 @@
+{
+   u'458':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':458,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'CURUBA - LIMONADA DE COCO - 500ml'
+   },
+   u'459':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':459,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'INFUSI\xd3N - HIBISCUS - (FRIA) 500ml'
+   },
+   u'318':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':318,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - AURUM CITRUS - 250cc'
+   },
+   u'386':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-01-00',
+      u'proportions':[
+
+      ],
+      u'id':386,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':3.0,
+      u'name':u'PIZZA DE PEPERONI - FLOYD -'
+   },
+   u'450':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':450,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':6.0,
+      u'name':u'PORR\xd3N PATAGONIA WEISSE - 355cc'
+   },
+   u'312':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':312,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':7.0,
+      u'availability':7.0,
+      u'minStock':10.0,
+      u'name':u'7UP - 354cc'
+   },
+   u'452':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':452,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':25.0,
+      u'availability':25.0,
+      u'minStock':6.0,
+      u'name':u'PORR\xd3N STELLA ARTOIS RUBIA - 355cc'
+   },
+   u'310':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'03-05-00',
+      u'proportions':[
+
+      ],
+      u'id':310,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':3.0,
+      u'name':u'AGUA SIN GAS - ECO DE LOS ANDES - 500cc'
+   },
+   u'454':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':454,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'CURUBA - NARANJADA DE KIWI - 500ml'
+   },
+   u'316':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':316,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':21.0,
+      u'availability':21.0,
+      u'minStock':6.0,
+      u'name':u'PEPSI REGULAR - 354cc'
+   },
+   u'456':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':456,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'CURUBA - MANDARINADA - 500ml'
+   },
+   u'332':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':332,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - COCCO LACTIS -250cc'
+   },
+   u'393':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-07-00',
+      u'proportions':[
+
+      ],
+      u'id':393,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':None,
+      u'name':u'TARTA DE JAMON Y QUESO - FLOYD'
+   },
+   u'487':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':u'04-03-00',
+      u'proportions':[
+
+      ],
+      u'id':487,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':1.0,
+      u'availability':1.0,
+      u'minStock':None,
+      u'name':u'EMPANADA DE POLLO - FIGARO -'
+   },
+   u'391':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-07-00',
+      u'proportions':[
+
+      ],
+      u'id':391,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':None,
+      u'name':u'TARTA DE CALABAZA - FLOYD'
+   },
+   u'390':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-07-00',
+      u'proportions':[
+
+      ],
+      u'id':390,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'TARTA DE CEBOLLA CARAMELIZADA - FLOYD'
+   },
+   u'274':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':274,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':12.0,
+      u'name':u'BOTELLA QUILMES STOUT NEGRA - 1000cc'
+   },
+   u'275':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':275,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':12.0,
+      u'name':u'BOTELLA STELLA ARTOIS RUBIA - 1000cc'
+   },
+   u'276':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':276,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':16.0,
+      u'availability':16.0,
+      u'minStock':6.0,
+      u'name':u'CORONA RUBIA - 355cc'
+   },
+   u'486':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':u'04-03-00',
+      u'proportions':[
+
+      ],
+      u'id':486,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':1.0,
+      u'availability':1.0,
+      u'minStock':None,
+      u'name':u'EMPANADA DE CARNE CUCHILLO - FIGARO -'
+   },
+   u'278':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':278,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':4.0,
+      u'availability':4.0,
+      u'minStock':5.0,
+      u'name':u'PORR\xd3N PATAGONIA AMBER - 355cc'
+   },
+   u'399':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+         {
+            u'ingredientId':40,
+            u'amount':1.0
+         },
+         {
+            u'ingredientId':86,
+            u'amount':1.0
+         }
+      ],
+      u'id':399,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':None,
+      u'name':u'SANDWICH DE CARNE - SHEIMAR -'
+   },
+   u'490':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':u'04-03-00',
+      u'proportions':[
+
+      ],
+      u'id':490,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':10.0,
+      u'availability':10.0,
+      u'minStock':None,
+      u'name':u'EMPANADA DE QUESO ROQUEFORT - FIGARO -'
+   },
+   u'491':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':491,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':1.0,
+      u'availability':1.0,
+      u'minStock':1.0,
+      u'name':u'EMPANADA DE VERDURAS - FIGARO -'
+   },
+   u'522':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':522,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'BUDIN DE BANANA - SHEIMAR -'
+   },
+   u'407':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':407,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'PINCHO LOMO'
+   },
+   u'315':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':315,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':18.0,
+      u'availability':18.0,
+      u'minStock':6.0,
+      u'name':u'PEPSI LIGHT - 354cc'
+   },
+   u'472':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':472,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'HAMBURGUESAS DE QUINOA - VEGAN PALERMO'
+   },
+   u'406':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':406,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'MUZZA SITICKS'
+   },
+   u'387':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-01-00',
+      u'proportions':[
+
+      ],
+      u'id':387,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':12.0,
+      u'availability':12.0,
+      u'minStock':3.0,
+      u'name':u'PIZZA DE PANCETA Y CIBOULETTE - FLOYD -'
+   },
+   u'540':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':u'',
+      u'ignoreAvailability':True,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':540,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':1.0,
+      u'availability':1.0,
+      u'minStock':None,
+      u'name':u'CARNE BRASEADA CON PAPAS O PUR\xc9 - SHEIMAR -'
+   },
+   u'405':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':405,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'PINCHO POLLO AL CURRY'
+   },
+   u'322':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':322,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - FRESH CUCUMIS - 250cc'
+   },
+   u'323':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':323,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - KALEIDOS NOCTUM - 250cc'
+   },
+   u'320':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':320,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - CHLOROPHYLLUM - 250cc'
+   },
+   u'500':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':500,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':None,
+      u'name':u'WOK DE TALLARINES DE ARROZ - VEGAN PALERMO -'
+   },
+   u'520':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':520,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':1.0,
+      u'name':u'BUDIN VEGANO DE CHOCOLATE - SHEIMAR -'
+   },
+   u'331':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':331,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - AROMUS KALZIUM - 250cc'
+   },
+   u'324':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':324,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'CURUBA - PINE MAPPLUS - 250cc'
+   },
+   u'554':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':554,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'ENSALADA DEL DIA - VEGAN PALERMO -'
+   },
+   u'543':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':543,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'HAMBURGUESA CRISPY - VEGAN PALERMO'
+   },
+   u'546':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':546,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':None,
+      u'name':u'PATAGONIA KUNE 740CC'
+   },
+   u'283':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':283,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':38.0,
+      u'availability':38.0,
+      u'minStock':6.0,
+      u'name':u'PORR\xd3N QUILMES CL\xc1SICA RUBIA - 340cc'
+   },
+   u'329':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':329,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':0.0,
+      u'name':u'CURUBA - MANDARINADA - 250ml'
+   },
+   u'502':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':502,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':None,
+      u'name':u'GATORDE LIMONADA'
+   },
+   u'503':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':503,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':20.0,
+      u'availability':20.0,
+      u'minStock':None,
+      u'name':u'MIRINDA NARANJA'
+   },
+   u'409':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':409,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'PINCHO LANGOSTINO'
+   },
+   u'327':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':327,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':0.0,
+      u'name':u'CURUBA - LIMONADA DE MENTA - 250ml'
+   },
+   u'521':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':521,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'BUDIN DE NARANJA - SHEIMAR -'
+   },
+   u'394':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-07-00',
+      u'proportions':[
+
+      ],
+      u'id':394,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':3.0,
+      u'availability':3.0,
+      u'minStock':None,
+      u'name':u'TARTA DE POLLO BBQ - FLOYD'
+   },
+   u'449':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':u'03-06-00',
+      u'proportions':[
+
+      ],
+      u'id':449,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':19.0,
+      u'availability':19.0,
+      u'minStock':12.0,
+      u'name':u'AGUA CON GAS - ECO LOS ANDES - 500cc'
+   },
+   u'448':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':448,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':8.0,
+      u'availability':8.0,
+      u'minStock':6.0,
+      u'name':u'AGUA H2OH - CITRUS 500cc'
+   },
+   u'401':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+         {
+            u'ingredientId':85,
+            u'amount':1.0
+         },
+         {
+            u'ingredientId':40,
+            u'amount':1.0
+         }
+      ],
+      u'id':401,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'SANDWICH PASTRON - SHEIMAR -'
+   },
+   u'542':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':u'1',
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':542,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':None,
+      u'name':u'POLLO CON PAPAS,
+      PUR\xc9 O VEGS - SHEIMAR -'
+   },
+   u'317':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':317,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'INFUSI\xd3N - HIBISCUS - (FRIA) 250ml'
+   },
+   u'326':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':True,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':326,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':-2.0,
+      u'availability':0.0,
+      u'minStock':0.0,
+      u'name':u'CURUBA - LIMONADA DE COCO - 250ml'
+   },
+   u'545':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':545,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':None,
+      u'name':u'PEPSI 1.5L'
+   },
+   u'304':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':304,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':10.0,
+      u'availability':10.0,
+      u'minStock':6.0,
+      u'name':u'AGUA H2OH - NARANCELLO - 500cc'
+   },
+   u'460':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':460,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'CURUBA - POMELADA - 500ml'
+   },
+   u'306':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':306,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':10.0,
+      u'availability':10.0,
+      u'minStock':3.0,
+      u'name':u'AGUA H2OH - LIMONETO - 500cc'
+   },
+   u'381':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':381,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'EMPANADA DE CEBOLLA CARAMELIZADA - FLOYD -'
+   },
+   u'384':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-00-00',
+      u'proportions':[
+
+      ],
+      u'id':384,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':3.0,
+      u'name':u'PIZZA DE MOZZARELLA - FLOYD -'
+   },
+   u'385':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-00-00',
+      u'proportions':[
+
+      ],
+      u'id':385,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':3.0,
+      u'name':u'PIZZA DE CEBOLLA CARAMELIZADA - FLOYD -'
+   },
+   u'489':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':u'04-03-00',
+      u'proportions':[
+
+      ],
+      u'id':489,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':1.0,
+      u'availability':1.0,
+      u'minStock':None,
+      u'name':u'EMPANADA CANASTA CAPRESE - FIGARO -'
+   },
+   u'488':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':u'04-03-00',
+      u'proportions':[
+
+      ],
+      u'id':488,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'EMPANADA DE JAMON Y QUESO - FIGARO -'
+   },
+   u'461':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':461,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':6.0,
+      u'availability':6.0,
+      u'minStock':None,
+      u'name':u'CURUBA - POMELADA - 250ml'
+   },
+   u'389':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':True,
+      u'iconName':u'01-00-00',
+      u'proportions':[
+
+      ],
+      u'id':389,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':11.0,
+      u'availability':11.0,
+      u'minStock':3.0,
+      u'name':u'PIZZA DE ROQUEFORT - FLOYD -'
+   },
+   u'457':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':457,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'CURUBA - LIMONADA DE MENTA - 500ml'
+   },
+   u'547':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':547,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':11.0,
+      u'availability':11.0,
+      u'minStock':None,
+      u'name':u'PATAGONIA KUNE 355CC'
+   },
+   u'313':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':313,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':6.0,
+      u'availability':6.0,
+      u'minStock':5.0,
+      u'name':u'7UP LIGTH - 354cc'
+   },
+   u'544':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':544,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':24.0,
+      u'availability':24.0,
+      u'minStock':None,
+      u'name':u'paso los toros'
+   },
+   u'541':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':u'2',
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':541,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':None,
+      u'name':u'ENSALADA ESPECIAL DE YAMAN\xcd - SHEIMAR -'
+   },
+   u'451':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':451,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':19.0,
+      u'availability':19.0,
+      u'minStock':6.0,
+      u'name':u'PORR\xd3N PATAGONIA BOHEMIAN PILSENER - 355cc'
+   },
+   u'553':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':553,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':None,
+      u'availability':None,
+      u'minStock':None,
+      u'name':u'ENSALADA CESAR - SHEIMAR -'
+   },
+   u'519':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':519,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':1.0,
+      u'name':u'BUDIN DE ZANAHORIA - SHEIMAR -'
+   },
+   u'473':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':473,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':0.0,
+      u'name':u'HAMBURGUESAS DE POROTOS ROJOS - VEGAN PALERMO'
+   },
+   u'273':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':273,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':8.0,
+      u'availability':8.0,
+      u'minStock':12.0,
+      u'name':u'BOTELLA QUILMES CL\xc1SICA RUBIA - 1000cc'
+   },
+   u'476':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':476,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':4.0,
+      u'availability':4.0,
+      u'minStock':0.0,
+      u'name':u'CANELONES - VEGAN PALERMO'
+   },
+   u'352':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':352,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':0.0,
+      u'name':u'CHEESECAKE CL\xc1SICO'
+   },
+   u'474':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':474,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':None,
+      u'name':u'ALBONDIGA DE HONGOS c/ ARROZ - VEGAN PALERMO'
+   },
+   u'475':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':475,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':1.0,
+      u'name':u'LASA\xd1A DE BERENJENAS - VEGAN PALERMO'
+   },
+   u'408':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':408,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':0.0,
+      u'availability':0.0,
+      u'minStock':None,
+      u'name':u'PINCHO POLLO FRITO'
+   },
+   u'501':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':501,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':5.0,
+      u'availability':5.0,
+      u'minStock':None,
+      u'name':u'GATORADE FRUTAS TROPICALES'
+   },
+   u'388':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':None,
+      u'iconName':u'01-00-00',
+      u'proportions':[
+
+      ],
+      u'id':388,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':1.0,
+      u'availability':1.0,
+      u'minStock':3.0,
+      u'name':u'PIZZA DE SALSA BLANCA Y ESPINACA - FLOYD -'
+   },
+   u'514':{
+      u'productProportions':[
+
+      ],
+      u'stockControl':True,
+      u'code':None,
+      u'ignoreAvailability':False,
+      u'iconName':None,
+      u'proportions':[
+
+      ],
+      u'id':514,
+      u'productTypeId':1,
+      u'unitId':1,
+      u'active':True,
+      u'stock':2.0,
+      u'availability':2.0,
+      u'minStock':0.0,
+      u'name':u'HAMBURGUESA AL PLATO - VEGAN PALERMO'
+   }
+}

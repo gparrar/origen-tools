@@ -1,0 +1,1522 @@
+{  
+   "316":{
+      "availability":16.0,
+      "active":true,
+      "code":null,
+      "id":316,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":5.0,
+      "name":"PEPSI REGULAR - 354cc",
+      "productTypeId":1,
+      "stock":16.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "275":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":275,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"BOTELLA STELLA ARTOIS RUBIA - 1000cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "278":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":278,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":5.0,
+      "name":"PORR\xc3\x93N PATAGONIA AMBER - 355cc",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "273":{
+      "availability":5.0,
+      "active":true,
+      "code":null,
+      "id":273,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"BOTELLA QUILMES CL\xc3\x81SICA RUBIA - 1000cc",
+      "productTypeId":1,
+      "stock":5.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "276":{
+      "availability":46.0,
+      "active":true,
+      "code":null,
+      "id":276,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":6.0,
+      "name":"CORONA RUBIA - 355cc",
+      "productTypeId":1,
+      "stock":46.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "302":{
+      "availability":7.0,
+      "active":true,
+      "code":null,
+      "id":302,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"AGUA SIN GAS - CLACIAR MINE - 500cc",
+      "productTypeId":1,
+      "stock":7.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "274":{
+      "availability":10.0,
+      "active":true,
+      "code":null,
+      "id":274,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"BOTELLA QUILMES STOUT NEGRA - 1000cc",
+      "productTypeId":1,
+      "stock":10.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "312":{
+      "availability":22.0,
+      "active":true,
+      "code":null,
+      "id":312,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":10.0,
+      "name":"7UP - 354cc",
+      "productTypeId":1,
+      "stock":22.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "318":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":318,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"JUGO PRENSADO - AURUM CITRUS - 250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "306":{
+      "availability":12.0,
+      "active":true,
+      "code":null,
+      "id":306,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"AGUA H2OH - LIMONETO - 500cc",
+      "productTypeId":1,
+      "stock":12.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "304":{
+      "availability":12.0,
+      "active":true,
+      "code":null,
+      "id":304,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"AGUA H2OH - NARANCELLO - 500cc",
+      "productTypeId":1,
+      "stock":12.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "326":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":326,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":0.0,
+      "name":"JUGO NATURAL - LIMONADA DE COCO - 250ml",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "327":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":327,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":0.0,
+      "name":"JUGO NATURAL - LIMONADA DE MENTA - 250ml",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "320":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":320,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"JUGO PRENSADO - CHLOROPHYLLUM - 250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "322":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":322,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"JUGO PRENSADO - FRESH CUCUMIS - 250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "324":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":324,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"JUGO PRENSADO - PINE MAPPLUS - 250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "332":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":332,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"LECHE VEGETAL - COCCO LACTIS -250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "277":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":277,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"BOTELLA PATAGONIA 24/7 - 710cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "283":{
+      "availability":18.0,
+      "active":true,
+      "code":null,
+      "id":283,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":6.0,
+      "name":"PORR\xc3\x93N QUILMES CL\xc3\x81SICA RUBIA - 340cc",
+      "productTypeId":1,
+      "stock":18.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "310":{
+      "availability":23.0,
+      "active":true,
+      "code":null,
+      "id":310,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"AGUA SIN GAS - ECO DE LOS ANDES - 500cc",
+      "productTypeId":1,
+      "stock":23.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "315":{
+      "availability":24.0,
+      "active":true,
+      "code":null,
+      "id":315,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":5.0,
+      "name":"PEPSI LIGHT - 354cc",
+      "productTypeId":1,
+      "stock":24.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "382":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":382,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"EMPANADA DE ESPINACA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "352":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":352,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":0.0,
+      "name":"CHEESECAKE CL\xc3\x81SICO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "395":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":395,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"TARTA DE BROCOLI Y QUESO BRIE",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "391":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":391,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"TARTA DE CALABAZA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "392":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":392,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"TARTA DE ESPINACA (Floyd)",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "393":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":393,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"TARTA DE JAM\xc3\x93N Y QUESO (Floyd)",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "386":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":386,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"PIZZA DE PEPERONI",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "385":{
+      "availability":9.0,
+      "active":true,
+      "code":null,
+      "id":385,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"PIZZA DE CEBOLLA CARAMELIZADA",
+      "productTypeId":1,
+      "stock":9.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "384":{
+      "availability":6.0,
+      "active":true,
+      "code":null,
+      "id":384,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"PIZZA DE MOZZARELLA",
+      "productTypeId":1,
+      "stock":6.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "381":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":381,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"EMPANADA DE CEBOLLA CARAMELIZADA",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "383":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":383,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"EMPANADA DE JAM\xc3\x93N Y QUESO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "387":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":387,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"PIZZA DE PANCETA Y CIBOULETTE",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "388":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":388,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"PIZZA DE SALSA BLANCA Y ESPINACA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "451":{
+      "availability":12.0,
+      "active":true,
+      "code":null,
+      "id":451,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":6.0,
+      "name":"PORR\xc3\x93N PATAGONIA BOHEMIAN PILSENER - 355cc",
+      "productTypeId":1,
+      "stock":12.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "370":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":370,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":2.0,
+      "name":"PAN DE CHOCOLATE 120 gr",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "389":{
+      "availability":4.0,
+      "active":true,
+      "code":null,
+      "id":389,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"PIZZA DE ROQUEFORT",
+      "productTypeId":1,
+      "stock":4.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "397":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":397,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"ENSALADA DE ORIENTAL",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "396":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":396,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"ENSALADA DE QUINOA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "460":{
+      "availability":1.0,
+      "active":true,
+      "code":null,
+      "id":460,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"JUGO NATURAL - POMELADA - 500ml",
+      "productTypeId":1,
+      "stock":1.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "317":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":317,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"INFUSI\xc3\x93N - HIBISCUS - (FRIA) 250ml",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "380":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":380,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"EMPANADA DE POLLO BBQ",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "323":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":323,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"JUGO PRENSADO - KALEIDOS NOCTUM - 250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "331":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":331,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"LECHE VEGETAL - AROMUS KALZIUM - 250cc",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "371":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":371,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":3.0,
+      "name":"ROLL DE CANELA Y PASAS",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "362":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":362,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"TARTA DE BR\xc3\x93COLO Y CALABAZA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "390":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":390,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"TARTA DE CEBOLLA CARAMELIZADA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "363":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":363,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"TARTA DE ESPINACA",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "364":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":364,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"TARTA DE JAM\xc3\x93N Y QUESO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "394":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":394,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"TARTA DE POLLO BBQ",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "365":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":365,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":1.0,
+      "name":"TARTA DE POLLO Y PUERRO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "379":{
+      "availability":1.0,
+      "active":true,
+      "code":null,
+      "id":379,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"EMPANADA DE CARNE",
+      "productTypeId":1,
+      "stock":1.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "458":{
+      "availability":null,
+      "active":true,
+      "code":null,
+      "id":458,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"JUGO NATURAL - LIMONADA DE COCO - 500ml",
+      "productTypeId":1,
+      "stock":null,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "459":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":459,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"INFUSI\xc3\x93N - HIBISCUS - (FRIA) 500ml",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "408":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":408,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"PINCHO POLLO FRITO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "400":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":400,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"SANDWICH DE POLLO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "401":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":401,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"SANDWICH R\xc3\x9aSTICO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "404":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":404,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"WRAP - SALM\xc3\x93N",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "454":{
+      "availability":null,
+      "active":true,
+      "code":null,
+      "id":454,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"JUGO NATURAL - NARANJADA DE KIWI - 500ml",
+      "productTypeId":1,
+      "stock":null,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "399":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":399,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"SANDWICH VEGGIE",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "450":{
+      "availability":12.0,
+      "active":true,
+      "code":null,
+      "id":450,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":6.0,
+      "name":"PORR\xc3\x93N PATAGONIA WEISSE - 355cc",
+      "productTypeId":1,
+      "stock":12.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "456":{
+      "availability":2.0,
+      "active":true,
+      "code":null,
+      "id":456,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"JUGO NATURAL - MANDARINADA - 500ml",
+      "productTypeId":1,
+      "stock":2.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "313":{
+      "availability":12.0,
+      "active":true,
+      "code":null,
+      "id":313,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":5.0,
+      "name":"7UP LIGTH - 354cc",
+      "productTypeId":1,
+      "stock":12.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "398":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":398,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"ENSALADA DE SUSHI SALAD",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "448":{
+      "availability":12.0,
+      "active":true,
+      "code":null,
+      "id":448,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":6.0,
+      "name":"AGUA H2OH - CITRUS  500cc",
+      "productTypeId":1,
+      "stock":12.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "461":{
+      "availability":null,
+      "active":true,
+      "code":null,
+      "id":461,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"JUGO NATURAL - POMELADA - 250ml",
+      "productTypeId":1,
+      "stock":null,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "329":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":329,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":0.0,
+      "name":"JUGO NATURAL - MANDARINADA - 250ml",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "406":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":406,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"MUZZA SITICKS",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "409":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":409,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"PINCHO LANGOSTINO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "407":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":407,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"PINCHO LOMO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "405":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":405,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"PINCHO POLLO AL CURRY",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "402":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":402,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"WRAP - CAESAR",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "403":{
+      "availability":0.0,
+      "active":true,
+      "code":null,
+      "id":403,
+      "iconName":null,
+      "ignoreAvailability":null,
+      "minStock":null,
+      "name":"WRAP - LANGOSTINO",
+      "productTypeId":1,
+      "stock":0.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "457":{
+      "availability":1.0,
+      "active":true,
+      "code":null,
+      "id":457,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":null,
+      "name":"JUGO NATURAL - LIMONADA DE MENTA - 500ml",
+      "productTypeId":1,
+      "stock":1.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "452":{
+      "availability":21.0,
+      "active":true,
+      "code":null,
+      "id":452,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":6.0,
+      "name":"PORR\xc3\x93N STELLA ARTOIS RUBIA - 355cc",
+      "productTypeId":1,
+      "stock":21.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   },
+   "449":{
+      "availability":11.0,
+      "active":true,
+      "code":null,
+      "id":449,
+      "iconName":null,
+      "ignoreAvailability":false,
+      "minStock":3.0,
+      "name":"AGUA CON GAS - ECO LOS ANDES - 500cc",
+      "productTypeId":1,
+      "stock":11.0,
+      "stockControl":true,
+      "unitId":1,
+      "proportions":[
+
+      ],
+      "productProportions":[
+
+      ]
+   }
+}
